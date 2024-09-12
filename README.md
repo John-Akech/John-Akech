@@ -1,11 +1,7 @@
-- 👋 Hey there, I'm @John-Akech!
-- 👀 Coding is my passion.
-- 🌱 Currently delving into Software engineering.
-- 💞️ Seeking to learn more about Software engineering.
-- 📫 You can reach me at +250792403049/ johnakechofficial@gmail.com.
-- 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: I'm deeply passionate about coding!
-
-<!---
-Software engineering is a ✨ special ✨ repository because my `README.md` (this file) appears on my GitHub profile.
---->
+👋 Hey there, I'm @John-Akech!
+👀 Coding, Machine Learning, Data Science, and AI are my passions.
+🌱 Currently exploring Software Engineering with a focus on ML, Data Science, and AI.
+💞️ Eager to deepen my knowledge and skills in these fields.
+📫 You can reach me at +250792403049 or johnakechofficial@gmail.com.
+😄 Pronouns: He/Him/His.
+⚡ Fun fact: I'm deeply passionate about coding and fascinated by the potential of AI and data science!
