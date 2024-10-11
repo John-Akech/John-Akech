@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20views&color=0e75b6&style=flat" alt="john-akech" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=john-akech" alt="john-akech" /></a> </p>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
     <img alt="coding" width="400" src="https://srv.latostadora.com/designall.dll/programmers-are-saints-funny-coding-gif--i:14138514698891413851;d:1469889;w:240;b:000000;m:1.jpg" style="margin-right: 20px;">
     <div style="text-align: left;">
         <p>🌱 Currently exploring Software Engineering</p>
@@ -14,6 +14,8 @@
         <p>⚡ Fun fact: I'm deeply passionate about coding and fascinated by the potential of AI and data science!</p>
     </div>
 </div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
