@@ -1,6 +1,6 @@
 [![MasterHead](https://itsm.tools/wp-content/uploads/2023/12/ai-buzzwords.png)](https://itsm.tools/wp-content/uploads/2023/12/ai-buzzwords.png)
 <h1 align="center">Hey 👋 there, I'm @John-Akech!</h1>
-<h3 align="center">Coding, Machine Learning, Data Science, Deep Learning and AI are my passions.</h3>
+<h3 align="center">What if Programming, Machine Learning, Data Science, Deep Learning, and AI were not just fields of study, but my passions driving innovation and discovery?</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20views&color=0e75b6&style=flat" alt="john-akech" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=john-akech" alt="john-akech" /></a> </p>
 <img alt="coding" width="400" src="https://srv.latostadora.com/designall.dll/programmers-are-saints-funny-coding-gif--i:14138514698891413851;d:1469889;w:240;b:000000;m:1.jpg">
