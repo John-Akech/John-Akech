@@ -4,20 +4,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20views&color=0e75b6&style=flat" alt="john-akech" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=john-akech" alt="john-akech" /></a> </p>
 
-<div style="display: flex; align-items: flex-start;">
-    <img alt="coding" width="400" src="https://srv.latostadora.com/designall.dll/programmers-are-saints-funny-coding-gif--i:14138514698891413851;d:1469889;w:240;b:000000;m:1.jpg" style="margin-right: 20px;">
-    <div style="text-align: left;">
-        <p style="margin: 0;">🌱 Currently exploring Software Engineering</p>
-        <p style="margin: 0;">💞️ Eager to deepen my knowledge and skills in these fields.</p>
-        <p style="margin: 0;">📫 You can reach me at +250792403049 or johnakechofficial@gmail.com.</p>
-        <p style="margin: 0;">😄 Pronouns: He/Him/His.</p>
-        <p style="margin: 0;">⚡ Fun fact: I'm deeply passionate about coding and fascinated by the potential of AI and data science!</p>
-    </div>
-</div>
+<img alt="coding" width="400" src="https://srv.latostadora.com/designall.dll/programmers-are-saints-funny-coding-gif--i:14138514698891413851;d:1469889;w:240;b:000000;m:1.jpg">
 
 
+- 🌱 Currently exploring Software Engineering**
 
+- 💞️ Eager to deepen my knowledge and skills in these fields.**
 
+- 📫 You can reach me at +250792403049 or johnakechofficial@gmail.com.**
+
+- 😄 Pronouns: He/Him/His.**
+
+- ⚡ Fun fact: I'm deeply passionate about coding and fascinated by the potential of AI and data science!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
