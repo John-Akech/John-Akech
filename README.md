@@ -7,13 +7,14 @@
 <div style="display: flex; align-items: center;">
     <img alt="coding" width="400" src="https://srv.latostadora.com/designall.dll/programmers-are-saints-funny-coding-gif--i:14138514698891413851;d:1469889;w:240;b:000000;m:1.jpg" style="margin-right: 20px;">
     <div style="text-align: left;">
-        <p>🌱 Currently exploring Software Engineering</p>
-        <p>💞️ Eager to deepen my knowledge and skills in these fields.</p>
-        <p>📫 You can reach me at +250792403049 or johnakechofficial@gmail.com.</p>
-        <p>😄 Pronouns: He/Him/His.</p>
-        <p>⚡ Fun fact: I'm deeply passionate about coding and fascinated by the potential of AI and data science!</p>
+        <p style="margin: 0;">🌱 Currently exploring Software Engineering</p>
+        <p style="margin: 0;">💞️ Eager to deepen my knowledge and skills in these fields.</p>
+        <p style="margin: 0;">📫 You can reach me at +250792403049 or johnakechofficial@gmail.com.</p>
+        <p style="margin: 0;">😄 Pronouns: He/Him/His.</p>
+        <p style="margin: 0;">⚡ Fun fact: I'm deeply passionate about coding and fascinated by the potential of AI and data science!</p>
     </div>
 </div>
+
 
 
 
