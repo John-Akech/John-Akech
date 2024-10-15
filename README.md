@@ -19,18 +19,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p align="center">
+<p align="left">
     <a href="https://www.linkedin.com/in/john-akech" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="John Akech LinkedIn" height="30" width="40" />
     </a>
     <a href="https://fb.com/the.lord.aroma" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="the.lord.aroma" height="30" width="40" />
+        <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="the.lord.aroma" height="30" width="40" />
     </a>
     <a href="https://instagram.com/the.lord.aroma" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.lord.aroma" height="30" width="40" />
+        <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.lord.aroma" height="30" width="40" />
     </a>
     <a href="https://x.com/john_akech_" target="_blank">
-        <img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg" alt="John Akech X" height="30" width="40" />
+        <img align="left" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg" alt="John Akech X" height="30" width="40" />
     </a>
 </p>
 
