@@ -40,6 +40,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=john-akech&show_icons=true&locale=en&layout=compact" alt="john-akech" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&locale=en" alt="john-akech" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&locale=en" alt="john-akech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=john-akech&" alt="john-akech" /></p>
