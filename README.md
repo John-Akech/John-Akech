@@ -39,7 +39,7 @@
   <em>Note: I am not a master of all these languages and tools yet, but I am committed to learning and mastering them as I continue my journey in software development, data science, machine learning, and more.</em>
 </p>
 
-<!-- Programming Languages -->
+<!-- Programming Language(s) -->
 <h4 align="center">Programming Languages</h4>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
