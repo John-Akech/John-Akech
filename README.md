@@ -1,6 +1,6 @@
 [![MasterHead](https://itsm.tools/wp-content/uploads/2023/12/ai-buzzwords.png)](https://itsm.tools/wp-content/uploads/2023/12/ai-buzzwords.png)
 
-<h1 align="center">Hi there 👋, I'm John Akech!</h1>
+<h1 align="center">Hi there 👋, I'm John AKECH!</h1>
 <h3 align="center">I'm passionate about Software Engineering, Machine Learning, Data Science, and Artificial Intelligence — all powered by my love for Java and Python!</h3>
 
 <p align="left">
@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning and exploring **Software Engineering**, especially using **Java** and **Python**.
 - 💡 I’m passionate about solving problems with **code, data, and AI**.
-- 📫 Reach me at: **johnakechofficial@gmail.com** or **+250792403049**
+- 📫 Reach me at: **johnakech05@gmail.com** or **+250792403049**
 - 💬 Pronouns: **He/Him**
 - ⚡ Fun Fact: I love learning new things and using technology to make a difference.
 
