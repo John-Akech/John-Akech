@@ -21,12 +21,12 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm currently studying **Software Engineering**
+- 🎓 I am currently studying **Software Engineering**
 - 💻 I love solving problems with **Java** | **Python** | **ML/AI tools**
-- 📚 I'm learning more about **Machine Learning** | **Data Science** | **Software Development**
+- 📚 I am learning more about **Machine Learning** | **Data Science** | **Software Development**
 - 📫 Reach me: **johnakech05@gmail.com** | 📞 +250 792 403 049
 - 💬 Pronouns: **He/Him**
-- 😄 Fun fact: I enjoy teaching myself new things with code and creativity
+- 😄 Fun fact: I am deeply passionate about lifelong learning...
 
 ---
 
