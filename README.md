@@ -16,7 +16,7 @@ I’m a Software Engineering student focused on using technology to solve real p
 - 🧠 **Java** & **Python** — core development & problem-solving  
 - 📊 **Data Analytics** — making sense of data with tools like Pandas & Seaborn  
 - 🤖 **Machine Learning & AI** — building smart systems with TensorFlow & Scikit-learn  
-- 🌍 **Tech for Social Good** — especially in disaster risk and education sectors  
+- 🌍 **Tech for Social Good** — especially in disaster risk and health sectors  
 
 📌 **Current Project**: [FloodSense](https://github.com/John-Akech/floodsense-chatbot) – A chatbot + flood prediction system for South Sudan.  
 📫 Reach me at `johnakech05@gmail.com` | 📞 +250 792 403 049
