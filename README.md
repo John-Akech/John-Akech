@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -21,7 +20,6 @@ I’m a Software Engineering student focused on using technology to solve real p
 📌 **Current Project**: [FloodSense](https://github.com/John-Akech/floodsense-chatbot) – A chatbot + flood prediction system for South Sudan.  
 📫 Reach me at `johnakech05@gmail.com` | 📞 +250 792 403 049
 
----
 
 ## 🌐 Connect With Me
 
@@ -40,7 +38,6 @@ I’m a Software Engineering student focused on using technology to solve real p
   </a>
 </p>
 
----
 
 ## 💻 Core Tech Stack
 
@@ -53,7 +50,6 @@ I’m a Software Engineering student focused on using technology to solve real p
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 </p>
 
----
 
 ## 🧰 Tools I Use
 
@@ -105,7 +101,6 @@ I’m a Software Engineering student focused on using technology to solve real p
   </p>
 </details>
 
----
 
 ## 📊 GitHub Stats
 
@@ -114,7 +109,6 @@ I’m a Software Engineering student focused on using technology to solve real p
   <img src="https://streak-stats.demolab.com?user=john-akech&theme=default" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact" alt="Top Languages" />
 </p>
----
 
 <p align="center">
   <em>"Technology is most powerful when it empowers the most vulnerable."</em>
