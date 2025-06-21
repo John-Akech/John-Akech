@@ -109,11 +109,9 @@ I’m a Software Engineering student focused on using technology to solve real p
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=john-akech&theme=default" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=john-akech&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact)
 
 ---
 
