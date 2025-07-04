@@ -17,7 +17,7 @@ I am a Software Engineering student focused on using technology to solve real pr
 - 🤖 **Machine Learning & AI** — building smart systems with Scikit-learn,Keras & TensorFlow  
 - 🌍 **Tech for Social Good** — especially in disaster risk and health sectors  
 
-📌 **Current Project**: [Sonar Rock vs Mine](https://github.com/John-Akech/Sonar-Rock-vs-Mine-Classifier) – A chatbot + flood prediction system for South Sudan.  
+📌 **Current Project**: [Sonar Rock vs Mine](https://github.com/John-Akech/Sonar-Rock-vs-Mine-Classifier) – A machine learning classifier to classify sonar signals as either rocks or mines, based on frequency-based features.  
 📫 Reach me at `johnakec12@gmail.com` | 📞 +250 792 403 049
 
 
