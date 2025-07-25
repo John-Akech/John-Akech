@@ -12,7 +12,7 @@
 
 I am a Software Engineering student focused on using technology to solve real problems. I’m currently learning and building in:
 
-- 🧠 **Java** & **Python** — core development & problem-solving  
+- 🧠 **Python** — core development & problem-solving  
 - 📊 **Data Analytics** — making sense of data with tools like Numpy, Pandas, Matplotlib, & Seaborn  
 - 🤖 **Machine Learning & AI** — building smart systems with Scikit-learn,Keras & TensorFlow  
 - 🌍 **Tech for Social Good** — especially in disaster risk and health sectors  
