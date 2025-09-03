@@ -1,7 +1,7 @@
 [![Banner](https://itsm.tools/wp-content/uploads/2023/12/ai-buzzwords.png)](https://itsm.tools)
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">John Akech</span></h1>
-<h3 align="center">Software Engineering Student | Aspiring AI Engineer & Data Scientist | Tech for Social Good 🌍</h3>
+<h3 align="center">AI & Data Science Enthusiast | Software Engineering Student | Building Practical AI Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
@@ -9,16 +9,23 @@
 
 ---
 
-## 🚀 About Me
-🎓 I am a **Software Engineering Student** passionate about building intelligent systems and using technology for **social good**.  
-💡 My focus is on **AI/ML, Data Science, and Data Analytics** to solve real-world problems, especially in **disaster risk and health sectors**.  
-🌱 Currently exploring **Python, Machine Learning, and Web Development** through projects that impact communities.  
+## 🌟 About Me  
 
-📌 **Current Project**:  
-👉 [Sonar Rock vs Mine Classifier](https://github.com/John-Akech/Sonar-Rock-vs-Mine-Classifier)  
-A machine learning project that classifies sonar signals into **rocks or mines** using frequency-based features.
+💡 **AI & Data Science Enthusiast | Python, Data Science & Predictive Modeling | Tech for Social Good**
 
-📫 Reach me: `johnakec12@gmail.com` | 📞 +250 792 403 049  
+I am a **Software Engineering student at the African Leadership University**, focused on **Machine Learning and Data Science**.  
+Through **Python, data analysis, and predictive modeling**, I am building practical skills by combining **coursework with hands-on projects**, always exploring how technology can solve **real-world problems**.  
+
+🌍 **My Journey Before Tech**  
+Before studying software engineering, I worked with organizations including the **Lutheran World Federation, Plan International, UNHCR, and the Office of the Prime Minister of Uganda**. My work supported **public health, early childhood education, financial literacy, and access to essential services** for displaced and vulnerable communities.  
+
+🔥 **Why I Do What I Do**  
+I have seen firsthand how **conflict, displacement, and climate change** devastate communities. Floods destroy homes and crops, trigger disease outbreaks, and leave families without options.  
+These experiences taught me that **real solutions must combine empathy, leadership, and practical problem-solving**. This is why I now build **AI solutions with social impact**, from flood early-warning systems to data-driven decision tools.  
+
+✨ I believe **technology is most powerful when it empowers the most vulnerable** — and that is the guiding principle of my journey.  
+
+📫 Reach me at `johnakec12@gmail.com` | 📞 +250 792 403 049  
 
 ---
 
@@ -96,6 +103,28 @@ A machine learning project that classifies sonar signals into **rocks or mines**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
 </p>
 </details>
+
+---
+
+## 🚀 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/John-Akech/Sonar-Rock-vs-Mine-Classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=Sonar-Rock-vs-Mine-Classifier&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/John-Akech/FloodSense">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=FloodSense&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/John-Akech/Data-Analytics-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=Data-Analytics-Projects&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/John-Akech/Python-Mini-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=Python-Mini-Projects&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
