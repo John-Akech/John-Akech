@@ -110,15 +110,14 @@ These experiences taught me that **real solutions must combine empathy, leadersh
 
 <p align="center">
   <a href="https://github.com/John-Akech/Sonar-Rock-vs-Mine-Classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=Sonar-Rock-vs-Mine-Classifier&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
+    <p align="center">
   <b>🔊 Sonar Rock vs Mine Classifier</b><br>
   End-to-end Machine Learning project that predicts whether a sonar signal reflects a <b>dangerous mine</b> or a <b>harmless rock</b>.  
   Includes <i>data cleaning, exploratory analysis, model building (Logistic Regression & Random Forest), hyperparameter tuning,</i>  
   and <b>deployment as an interactive Streamlit web app</b>.
+</p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=Sonar-Rock-vs-Mine-Classifier&theme=tokyonight" />
+  </a>
 </p>
 
 ---
