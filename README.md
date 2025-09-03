@@ -110,11 +110,19 @@ These experiences taught me that **real solutions must combine empathy, leadersh
 
 <p align="center">
   <a href="https://github.com/John-Akech/Sonar-Rock-vs-Mine-Classifier">
-    <b>🔊 Sonar Rock vs Mine Classifier</b><br>
-    End-to-end Machine Learning project that predicts whether a sonar signal reflects a <b>dangerous mine</b> or a <b>harmless rock</b>.<br>
-    Includes <i>data cleaning, exploratory analysis, model building (Logistic Regression & Random Forest), hyperparameter tuning,</i><br>
-    and <b>deployment as an interactive Streamlit web app</b>.<br><br>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=Sonar-Rock-vs-Mine-Classifier&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/John-Akech/FloodSense">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=FloodSense&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/John-Akech/Data-Analytics-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=Data-Analytics-Projects&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/John-Akech/Python-Mini-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=Python-Mini-Projects&theme=tokyonight" />
   </a>
 </p>
 
