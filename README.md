@@ -8,7 +8,7 @@
 </p>
 
 
-## 🚀 About Me
+##About Me
 
 I am a Software Engineering student focused on using technology to solve real problems. I’m currently learning and building in:
 
