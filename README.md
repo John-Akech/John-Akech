@@ -1,7 +1,7 @@
 [![Banner](https://itsm.tools/wp-content/uploads/2023/12/ai-buzzwords.png)](https://itsm.tools)
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">John Akech</span></h1>
-<h3 align="center">AI & Data Science Enthusiast | Software Engineering Student | Building Practical AI Solutions</h3>
+<h3 align="center">AI & Data Science Enthusiast | Software Engineering Student | Building Practical AI Solutions for Social Impact</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
@@ -11,19 +11,18 @@
 
 ## 🌟 About Me  
 
-💡 **AI & Data Science Enthusiast | Python, Data Science & Predictive Modeling | Tech for Social Good**
+💡 **AI & Data Science Enthusiast | Python, Machine Learning & Predictive Modeling | Tech for Social Good**
 
-I am a **Software Engineering student at the African Leadership University**, focused on **Machine Learning and Data Science**.  
-Through **Python, data analysis, and predictive modeling**, I am building practical skills by combining **coursework with hands-on projects**, always exploring how technology can solve **real-world problems**.  
+I am a **Software Engineering student at the African Leadership University**, passionate about **building practical AI solutions** that empower vulnerable communities.  
+I combine **Python, data analysis, and predictive modeling** with **hands-on projects**, exploring how technology can solve **real-world problems** in healthcare, climate, and social development.  
 
 🌍 **My Journey Before Tech**  
-Before studying software engineering, I worked with organizations including the **Lutheran World Federation, Plan International, UNHCR, and the Office of the Prime Minister of Uganda**. My work supported **public health, early childhood education, financial literacy, and access to essential services** for displaced and vulnerable communities.  
+Before formally studying software engineering, I worked with **Lutheran World Federation, Plan International, UNHCR, and the Office of the Prime Minister of Uganda**, supporting public health, early childhood education, financial literacy, and access to essential services.  
+These experiences shaped my belief that **technology must be grounded in empathy and human-centered problem-solving**.  
 
 🔥 **Why I Do What I Do**  
-I have seen firsthand how **conflict, displacement, and climate change** devastate communities. Floods destroy homes and crops, trigger disease outbreaks, and leave families without options.  
-These experiences taught me that **real solutions must combine empathy, leadership, and practical problem-solving**. This is why I now build **AI solutions with social impact**, from flood early-warning systems to data-driven decision tools.  
-
-✨ I believe **technology is most powerful when it empowers the most vulnerable** — and that is the guiding principle of my journey.  
+I have witnessed how **conflict, displacement, and climate change** devastate communities. Floods destroy homes and crops, trigger disease outbreaks, and leave families without options.  
+My goal is to **design AI systems that save lives, reduce risk, and provide actionable insights**, from flood early-warning systems to predictive analytics tools.
 
 📫 Reach me at `johnakec12@gmail.com` | 📞 +250 792 403 049  
 
@@ -54,7 +53,7 @@ These experiences taught me that **real solutions must combine empathy, leadersh
 
 ---
 
-## 🛠 Tools I Use
+## 🛠 Tools & Interests  
 
 <details>
 <summary><b>🔬 ML/AI & Data Science</b></summary>
@@ -62,11 +61,12 @@ These experiences taught me that **real solutions must combine empathy, leadersh
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40"/>
 </p>
 </details>
 
 <details>
-<summary><b>🌐 Web & Mobile Development</b></summary>
+<summary><b>🌐 Web & Mobile Development (Exploring)</b></summary>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
@@ -77,7 +77,7 @@ These experiences taught me that **real solutions must combine empathy, leadersh
 </details>
 
 <details>
-<summary><b>⚙️ DevOps & Infra</b></summary>
+<summary><b>⚙️ DevOps & Infra (Exploring)</b></summary>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="40"/>
@@ -86,17 +86,17 @@ These experiences taught me that **real solutions must combine empathy, leadersh
 </details>
 
 <details>
-<summary><b>🗄 Databases</b></summary>
+<summary><b>🗄 Databases (Exploring)</b></summary>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
 </p>
 </details>
 
 <details>
-<summary><b>🎨 Design Tools</b></summary>
+<summary><b>🎨 Design Tools (Exploring)</b></summary>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
@@ -109,9 +109,29 @@ These experiences taught me that **real solutions must combine empathy, leadersh
 ## 🚀 Featured Projects  
 
 <p align="center">
+  <a href="https://github.com/John-Akech/FloodSense">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=FloodSense&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+<b>🌊 FloodSense: ML-Powered Flood Early Warning System</b><br>
+Predicts flood risk in South Sudan’s Upper Nile region using satellite data and machine learning.  
+Includes <i>synthetic environmental feature simulation, Gym-compatible RL environment, flood alert predictions, and interactive Pygame visualizations</i>.  
+Supports **SDG 13: Climate Action**, addressing displacement, crop loss, and community resilience.  
+</p>
+
+<p align="center">
   <a href="https://github.com/John-Akech/Sonar-Rock-vs-Mine-Classifier">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=Sonar-Rock-vs-Mine-Classifier&theme=tokyonight" />
   </a>
+</p>
+
+<p align="center">
+<b>🔊 Sonar Rock vs Mine Classifier</b><br>
+Classifies sonar signals as <b>dangerous mines</b> or <b>harmless rocks</b> using ML.  
+Includes <i>data cleaning, exploratory analysis, model building (Logistic Regression & Random Forest), hyperparameter tuning,</i> and <b>interactive Streamlit web app deployment</b>.  
+Showcases **end-to-end ML pipeline and practical AI application**.
 </p>
 
 ---
@@ -119,13 +139,22 @@ These experiences taught me that **real solutions must combine empathy, leadersh
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=john-akech&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&theme=tokyonight&hide=C,cpp" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=john-akech&theme=tokyonight&mode=weekly" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight&hide=C,C++" height="150"/>
 </p>
+
+---
+
+## 🎯 Daily Motivation  
+
+**Keep your streak alive!** Each day you push code, learn a new ML concept, or contribute to projects counts.  
+- ✅ Consistency is the secret to mastery.  
+- ✅ Aim for 100+ commits in the next 3 months.  
+- ✅ Gamify your learning: streaks, challenges, and mini-projects.  
 
 ---
 
