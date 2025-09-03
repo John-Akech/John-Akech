@@ -11,7 +11,7 @@
 
 ## About Me  
 
-**AI & Data Science Enthusiast | Python, Machine Learning & Predictive Modeling | Tech for Social Good**
+**AI & Data Science Enthusiast | Python, Data Analytics & Predictive Modeling | Tech for Social Good**
 
 I am a **Software Engineering student at the African Leadership University**, passionate about **building practical AI solutions** that empower vulnerable communities.  
 I combine **Python, data analysis, and predictive modeling** with **hands-on projects**, exploring how technology can solve **real-world problems** in healthcare, climate, and social development.  
