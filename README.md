@@ -12,12 +12,12 @@
 
 I am a Software Engineering student focused on using technology to solve real problems. I’m currently learning and building in:
 
-- 🧠 **Python** — core development & problem-solving  
-- 📊 **Data Analytics** — making sense of data with tools like Numpy, Pandas, Matplotlib, & Seaborn  
-- 🤖 **Machine Learning & AI** — building smart systems with Scikit-learn,Keras & TensorFlow  
-- 🌍 **Tech for Social Good** — especially in disaster risk and health sectors  
+- **Python** — core development & problem-solving  
+- **Data Analytics** — making sense of data with tools like Numpy, Pandas, Matplotlib, & Seaborn  
+- **ML/A & Data ScienceI** — building Intelligent Systems  
+- **Tech for Social Good** — especially in disaster risk and health sectors  
 
-📌 **Current Project**: [Sonar Rock vs Mine](https://github.com/John-Akech/Sonar-Rock-vs-Mine-Classifier) – A machine learning classifier to classify sonar signals as either rocks or mines, based on frequency-based features.  
+**Current Project**: [Sonar Rock vs Mine](https://github.com/John-Akech/Sonar-Rock-vs-Mine-Classifier) – A machine learning classifier to classify sonar signals as either rocks or mines, based on frequency-based features.  
 📫 Reach me at `johnakec12@gmail.com` | 📞 +250 792 403 049
 
 
@@ -54,7 +54,7 @@ I am a Software Engineering student focused on using technology to solve real pr
 ## 🧰 Tools I Use
 
 <details>
-  <summary><strong>📊 Data & ML Tools</strong></summary>
+  <summary><strong>ML/AI and Data Science Tools</strong></summary>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="40" height="40"/>
@@ -62,6 +62,7 @@ I am a Software Engineering student focused on using technology to solve real pr
   </p>
 </details>
 
+/**
 <details>
   <summary><strong>🌐 Web & Mobile Development</strong></summary>
   <p align="center">
@@ -72,7 +73,9 @@ I am a Software Engineering student focused on using technology to solve real pr
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
   </p>
 </details>
+**/
 
+/**
 <details>
   <summary><strong>🛠️ DevOps & Infra</strong></summary>
   <p align="center">
@@ -81,9 +84,10 @@ I am a Software Engineering student focused on using technology to solve real pr
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="40" height="40"/>
   </p>
 </details>
+**/
 
 <details>
-  <summary><strong>🗃 Databases</strong></summary>
+  <summary><strong>Databases</strong></summary>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
@@ -92,17 +96,18 @@ I am a Software Engineering student focused on using technology to solve real pr
   </p>
 </details>
 
+/**
 <details>
-  <summary><strong>🎨 Design Tools</strong></summary>
+  <summary><strong>Design Tools</strong></summary>
   <p align="center">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
   </p>
 </details>
+**/
 
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&locale=en" alt="GitHub Stats" />
