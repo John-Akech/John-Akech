@@ -26,7 +26,6 @@ My goal is to **design AI systems that save lives, reduce risk, and provide acti
 
 Reach me at `johnakec12@gmail.com` | 📞 +250 792 403 049  
 
----
 
 ## 🌐 Connect With Me  
 <p align="center">
@@ -36,7 +35,6 @@ Reach me at `johnakec12@gmail.com` | 📞 +250 792 403 049
   <a href="https://x.com/john_akech_" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v2.png" width="40"/></a>
 </p>
 
----
 
 ## 💻 Tech Stack  
 
@@ -50,7 +48,6 @@ Reach me at `johnakec12@gmail.com` | 📞 +250 792 403 049
 <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br>Docker</td>
 </tr>
 </table>
----
 
 ## 🛠 Tools & Interests  
 
@@ -113,7 +110,6 @@ Reach me at `johnakec12@gmail.com` | 📞 +250 792 403 049
   </a>
 </p>
 
----
 
 ## GitHub Stats  
 
@@ -126,7 +122,6 @@ Reach me at `johnakec12@gmail.com` | 📞 +250 792 403 049
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight&hide=C,C++" height="150"/>
 </p>
 
----
 
 ## Daily Motivation  
 
@@ -135,6 +130,5 @@ Reach me at `johnakec12@gmail.com` | 📞 +250 792 403 049
 - ✅ Aim for 100+ commits in the next 3 months.  
 - ✅ Gamify your learning: streaks, challenges, and mini-projects.  
 
----
 
 <p align="center"><em>💡 "Technology is most powerful when it empowers the most vulnerable." 💡</em></p>
