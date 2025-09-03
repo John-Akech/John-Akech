@@ -92,7 +92,6 @@ I am a Software Engineering student focused on using technology to solve real pr
   </p>
 </details>
 
-/**
 <details>
   <summary><strong>Design Tools</strong></summary>
   <p align="center">
@@ -101,7 +100,6 @@ I am a Software Engineering student focused on using technology to solve real pr
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
   </p>
 </details>
-**/
 
 ## GitHub Stats
 
