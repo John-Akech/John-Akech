@@ -63,7 +63,7 @@ I am a Software Engineering student focused on using technology to solve real pr
 </details>
 
 <details>
-  <summary><strong>🌐 Web & Mobile Development</strong></summary>
+  <summary><strong>Web & Mobile Development</strong></summary>
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -74,7 +74,7 @@ I am a Software Engineering student focused on using technology to solve real pr
 </details>
 
 <details>
-  <summary><strong>🛠️ DevOps & Infra</strong></summary>
+  <summary><strong>DevOps & Infra</strong></summary>
   <p align="center">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="40" height="40"/>
