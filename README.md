@@ -114,6 +114,13 @@ These experiences taught me that **real solutions must combine empathy, leadersh
   </a>
 </p>
 
+<p align="center">
+  <b>🔊 Sonar Rock vs Mine Classifier</b><br>
+  End-to-end Machine Learning project that predicts whether a sonar signal reflects a <b>dangerous mine</b> or a <b>harmless rock</b>.  
+  Includes <i>data cleaning, exploratory analysis, model building (Logistic Regression & Random Forest), hyperparameter tuning,</i>  
+  and <b>deployment as an interactive Streamlit web app</b>.
+</p>
+
 ---
 
 ## 📊 GitHub Stats  
