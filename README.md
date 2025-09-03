@@ -43,7 +43,6 @@ Reach me at `johnakec12@gmail.com` | 📞 +250 792 403 049
 <table align="center">
 <tr>
 <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python</td>
-<td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br>Java</td>
 <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br>Scikit-Learn</td>
 <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/><br>TensorFlow</td>
 <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/><br>PyTorch</td>
