@@ -131,7 +131,7 @@ My goal is to **design AI systems that save lives, reduce risk, and provide acti
 
 ## 🎯 Daily Motivation  
 
-**Keep your streak alive!** Each day you push code, learn a new ML concept, or contribute to projects counts.  
+**Keep your streak alive!** Each day you push code, learn a new concept, or contribute to projects counts.  
 - ✅ Consistency is the secret to mastery.  
 - ✅ Aim for 100+ commits in the next 3 months.  
 - ✅ Gamify your learning: streaks, challenges, and mini-projects.  
