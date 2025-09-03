@@ -109,29 +109,9 @@ My goal is to **design AI systems that save lives, reduce risk, and provide acti
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/John-Akech/FloodSense">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=FloodSense&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-<b>🌊 FloodSense: ML-Powered Flood Early Warning System</b><br>
-Predicts flood risk in South Sudan’s Upper Nile region using satellite data and machine learning.  
-Includes <i>synthetic environmental feature simulation, Gym-compatible RL environment, flood alert predictions, and interactive Pygame visualizations</i>.  
-Supports **SDG 13: Climate Action**, addressing displacement, crop loss, and community resilience.  
-</p>
-
-<p align="center">
   <a href="https://github.com/John-Akech/Sonar-Rock-vs-Mine-Classifier">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=Sonar-Rock-vs-Mine-Classifier&theme=tokyonight" />
   </a>
-</p>
-
-<p align="center">
-<b>🔊 Sonar Rock vs Mine Classifier</b><br>
-Classifies sonar signals as <b>dangerous mines</b> or <b>harmless rocks</b> using ML.  
-Includes <i>data cleaning, exploratory analysis, model building (Logistic Regression & Random Forest), hyperparameter tuning,</i> and <b>interactive Streamlit web app deployment</b>.  
-Showcases **end-to-end ML pipeline and practical AI application**.
 </p>
 
 ---
