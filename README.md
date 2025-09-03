@@ -62,7 +62,6 @@ I am a Software Engineering student focused on using technology to solve real pr
   </p>
 </details>
 
-/**
 <details>
   <summary><strong>🌐 Web & Mobile Development</strong></summary>
   <p align="center">
@@ -73,9 +72,7 @@ I am a Software Engineering student focused on using technology to solve real pr
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
   </p>
 </details>
-**/
 
-/**
 <details>
   <summary><strong>🛠️ DevOps & Infra</strong></summary>
   <p align="center">
@@ -84,7 +81,6 @@ I am a Software Engineering student focused on using technology to solve real pr
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="40" height="40"/>
   </p>
 </details>
-**/
 
 <details>
   <summary><strong>Databases</strong></summary>
