@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=5BCDEC&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Java+Developer+in+Training;Backend-Focused+Learner;Building+Practical+Software+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=5BCDEC&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Java+Developer+in+Training;Backend-Focused+Learner;Building+Practical+Software+Projects" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi, I'm John Akech 👋</h1>
@@ -17,24 +17,24 @@
 
 ---
 
-## About Me
+## My Story
 
-I am a **Software Engineering student at the African Leadership University**, currently building a strong foundation in **Java, object-oriented programming, data structures, and backend development**.
+I am a **Software Engineering student at the African Leadership University** currently building a strong foundation in **Java, object-oriented programming, data structures, and backend development**.
 
-I enjoy turning concepts into practical projects and steadily improving my ability to write **clean, reliable, and maintainable code**.
+My journey into technology is grounded in a desire to build solutions that are practical, reliable, and meaningful. I enjoy learning by building — turning programming concepts into small but real projects that strengthen my problem-solving skills and deepen my understanding of software engineering.
 
-My long-term goal is to become a **professional software developer** who builds technology that solves real-world problems and creates meaningful impact.
+Before transitioning into software engineering, I worked with organizations such as **Lutheran World Federation, Plan International, and UNHCR**, supporting communities affected by conflict and displacement. Those experiences shaped how I think about technology: not just as code, but as a tool for solving real problems and improving lives.
 
-Before transitioning into software engineering, I worked with organizations such as **Lutheran World Federation, Plan International, and UNHCR**, supporting communities affected by conflict and displacement. Those experiences shaped my belief that:
-
-> **Technology should be practical, human-centered, and capable of improving lives.**
+> **I believe technology is most valuable when it is practical, human-centered, and capable of creating real impact.**
 
 ---
 
-## Current Focus
+## What I Am Focused On
+
+Right now, I am focused on growing into a strong software developer by:
 
 - Learning **Core Java**
-- Strengthening **Object-Oriented Programming**
+- Strengthening my understanding of **Object-Oriented Programming**
 - Practicing **Data Structures and Algorithms**
 - Building **Java console applications**
 - Preparing for **Spring Boot and backend development**
@@ -52,18 +52,34 @@ Before transitioning into software engineering, I worked with organizations such
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA" />
 </p>
 
+<p align="center">
+  <b>Java</b> • <b>Git</b> • <b>GitHub</b> • <b>Linux</b> • <b>VS Code</b> • <b>IntelliJ IDEA</b>
+</p>
+
 ---
 
-## Projects
+## What I’m Building
 
-Here are some of the projects I am building as I grow my software development skills:
+These projects reflect my current stage of growth and my commitment to improving through practice:
 
 - 🎮 **Java Quiz Game**
 - 🎲 **Dice Rolling Simulator**
 - 🔎 **Array Search Program**
 - 🛠️ **Command-Line Java Utilities**
 
-I am continuously adding more projects as I advance in Java and backend development.
+Each project helps me strengthen core programming concepts, improve my coding style, and build confidence as a developer.
+
+---
+
+## Growth Mindset
+
+I am committed to:
+
+- Learning consistently
+- Writing code that is clear and maintainable
+- Building projects, not just watching tutorials
+- Improving step by step through practice and repetition
+- Using software to solve meaningful problems
 
 ---
 
@@ -80,12 +96,11 @@ I am continuously adding more projects as I advance in Java and backend developm
 
 ---
 
-## Professional Values
+## Where I’m Headed
 
-- Consistency in learning
-- Writing clear and understandable code
-- Building projects, not just watching tutorials
-- Using technology to solve meaningful problems
+My long-term goal is to become a **professional backend/software developer** who builds dependable systems and contributes to solutions that matter.
+
+I am especially interested in growing from strong fundamentals into building larger, real-world applications with **Java and backend technologies**.
 
 ---
 
@@ -103,5 +118,5 @@ I am continuously adding more projects as I advance in Java and backend developm
 ---
 
 <p align="center">
-  <em>Currently learning, building, and improving every day.</em>
+  <em>Currently learning, building, and growing every day.</em>
 </p>
