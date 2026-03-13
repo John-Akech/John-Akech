@@ -1,75 +1,82 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:1E90FF&height=200&section=header&text=John%20Akech&fontSize=40&fontColor=ffffff)
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Java+Developer+in+Training;Building+Real+Software+Projects;Learning+Every+Day&center=true&width=500&height=45">
+</p>
+
 <h1 align="center">Hi 👋, I'm John Akech</h1>
-<h3 align="center">Software Engineering Student | Java Developer in Training</h3>
+
+<h3 align="center">Software Engineering Student | Java Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a **Software Engineering student at the African Leadership University**, currently focused on mastering **Java and backend development**.
+I am a **Software Engineering student at the African Leadership University** currently focused on mastering **Java and backend development**.
 
-I am building practical software projects while strengthening my understanding of:
+I enjoy building practical projects while strengthening my understanding of:
 
 - Object-Oriented Programming (OOP)
 - Algorithms & Data Structures
-- Clean Code & Debugging
-- Software Design Fundamentals
+- Clean Code
+- Debugging & Problem Solving
 
-My goal is to become a **professional software developer** who builds reliable technology solutions that create real-world impact.
+My goal is to become a **professional software developer** building reliable technology solutions that solve real-world problems.
 
-Before studying software engineering, I worked with humanitarian organizations including **Lutheran World Federation, Plan International, and UNHCR**, supporting communities affected by conflict and displacement. These experiences shaped my belief that:
+Before studying software engineering, I worked with organizations such as **Lutheran World Federation, Plan International, and UNHCR**, supporting communities affected by conflict and displacement. These experiences shaped my belief that:
 
-> **Technology should solve real problems and empower communities.**
+> Technology should be used to solve real problems and empower communities.
 
 ---
 
-## 🚀 Current Learning Journey
+# 🚀 Current Learning Journey
 
-- ☕ Learning **Core Java**
-- 🧠 Practicing **Data Structures & Problem Solving**
+- ☕ Core **Java Programming**
+- 🧠 **Data Structures & Algorithms**
 - 🛠 Building **Java console applications**
-- 📚 Studying **Object-Oriented Programming**
-- 🔜 Preparing to learn **Spring Boot for backend development**
+- 📚 **Object-Oriented Programming**
+- 🔜 Preparing for **Spring Boot Backend Development**
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
 
 </p>
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
-Some of the projects I am currently building while learning:
+Some projects I am currently building while learning software development:
 
 - 🎮 **Java Quiz Game**
 - 🎲 **Dice Rolling Simulator**
 - 🔎 **Array Search Program**
 - ⚙ **Command-Line Java Utilities**
 
-More projects coming soon as I continue improving my programming skills.
+More projects coming as I continue improving my programming skills.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=john-akech&theme=tokyonight"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight"/>
 
@@ -77,18 +84,21 @@ More projects coming soon as I continue improving my programming skills.
 
 ---
 
-## 🌍 Vision
+# 🌍 Vision
 
-I believe software engineering is not only about writing code — it is about **building systems that improve people's lives**.
+I believe software engineering is not just about writing code — it is about **building systems that improve people's lives**.
 
-My long-term goal is to create technology that contributes to **social impact, sustainability, and resilient communities**.
+My long-term goal is to build technology that contributes to **social impact, sustainability, and resilient communities**.
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/john-akech  
-Email: johnakec12@gmail.com  
+LinkedIn  
+https://www.linkedin.com/in/john-akech
+
+Email  
+johnakec12@gmail.com
 
 ---
 
