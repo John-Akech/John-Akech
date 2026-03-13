@@ -1,43 +1,42 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=John%20Akech&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=John%20Akech&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=5BCDEC&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Java+Developer+in+Training;Backend-Focused+Learner;Building+Practical+Software+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=5BCDEC&center=true&vCenter=true&width=820&lines=Software+Engineering+Student;Java+Developer+in+Training;Learning+Backend+Development;Building+Projects+Step+by+Step" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi, I'm John Akech 👋</h1>
-<h3 align="center">Software Engineering Student | Java Developer in Training | Backend-Focused Learner</h3>
+<h3 align="center">Software Engineering Student | Java Developer in Training | Learning Backend Development</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=john-akech">
-    <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## My Story
+## About Me
 
-I am a **Software Engineering student at the African Leadership University** currently building a strong foundation in **Java, object-oriented programming, data structures, and backend development**.
+I am a **Software Engineering student at the African Leadership University** with a growing interest in **Java and backend development**.
 
-My journey into technology is grounded in a desire to build solutions that are practical, reliable, and meaningful. I enjoy learning by building — turning programming concepts into small but real projects that strengthen my problem-solving skills and deepen my understanding of software engineering.
+Right now, I am focused on building a strong foundation in programming by learning core concepts, practicing regularly, and creating small projects that help me improve.
 
-Before transitioning into software engineering, I worked with organizations such as **Lutheran World Federation, Plan International, and UNHCR**, supporting communities affected by conflict and displacement. Those experiences shaped how I think about technology: not just as code, but as a tool for solving real problems and improving lives.
+I enjoy writing code, solving problems, and learning how software is built step by step.
 
-> **I believe technology is most valuable when it is practical, human-centered, and capable of creating real impact.**
+Before moving into software engineering, I worked with organizations such as **Lutheran World Federation, Plan International, and UNHCR**. That experience shaped the way I see technology.
+
+I believe good technology should be **useful, simple, and able to solve real problems for real people**.
 
 ---
 
-## What I Am Focused On
+## What I’m Learning
 
-Right now, I am focused on growing into a strong software developer by:
-
-- Learning **Core Java**
-- Strengthening my understanding of **Object-Oriented Programming**
-- Practicing **Data Structures and Algorithms**
-- Building **Java console applications**
-- Preparing for **Spring Boot and backend development**
+- Core **Java**
+- **Object-Oriented Programming**
+- **Data Structures and Algorithms**
+- Problem-solving through practice
+- The basics of **backend development**
+- Preparing to learn **Spring Boot**
 
 ---
 
@@ -47,39 +46,38 @@ Right now, I am focused on growing into a strong software developer by:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA" />
 </p>
 
 <p align="center">
-  <b>Java</b> • <b>Git</b> • <b>GitHub</b> • <b>Linux</b> • <b>VS Code</b> • <b>IntelliJ IDEA</b>
+  <b>Java</b> • <b>Git</b> • <b>GitHub</b> • <b>VS Code</b> • <b>IntelliJ IDEA</b>
 </p>
 
 ---
 
-## What I’m Building
+## Projects I’m Building
 
-These projects reflect my current stage of growth and my commitment to improving through practice:
+These projects reflect my learning journey and the skills I am developing:
 
 - 🎮 **Java Quiz Game**
 - 🎲 **Dice Rolling Simulator**
 - 🔎 **Array Search Program**
 - 🛠️ **Command-Line Java Utilities**
 
-Each project helps me strengthen core programming concepts, improve my coding style, and build confidence as a developer.
+I will continue adding better and more challenging projects as I grow.
 
 ---
 
-## Growth Mindset
+## My Approach
 
-I am committed to:
+I believe in learning by doing.
 
-- Learning consistently
-- Writing code that is clear and maintainable
-- Building projects, not just watching tutorials
-- Improving step by step through practice and repetition
-- Using software to solve meaningful problems
+That means:
+- building projects consistently
+- improving one step at a time
+- writing code that is clear and readable
+- focusing on progress, not shortcuts
 
 ---
 
@@ -96,27 +94,27 @@ I am committed to:
 
 ---
 
-## Where I’m Headed
+## Career Goal
 
-My long-term goal is to become a **professional backend/software developer** who builds dependable systems and contributes to solutions that matter.
+My goal is to become a **professional software developer** with strong backend skills, solid programming fundamentals, and the ability to build software that is useful and dependable.
 
-I am especially interested in growing from strong fundamentals into building larger, real-world applications with **Java and backend technologies**.
+I am still growing, but I am committed to learning deeply, building consistently, and getting better every day.
 
 ---
 
-## Connect With Me
+## Contact
 
 <p align="center">
+  <a href="mailto:johnakec12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-johnakec12%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/john-akech" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-John%20Akech-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:johnakec12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>Currently learning, building, and growing every day.</em>
+  <em>Learning, building, and improving every day.</em>
 </p>
