@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=John%20Akech&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=John%20Akech&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
 </p>
 
 <p align="center">
-  <img src="./assets/john-akech.png" width="180" alt="John Akech" style="border-radius: 50%;" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+Developer+in+Training;Building+Practical+Software+Projects;Focused+on+Backend+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=5BCDEC&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Java+Developer+in+Training;Backend-Focused+Learner;Building+Practical+Software+Projects" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi, I'm John Akech 👋</h1>
@@ -23,11 +19,11 @@
 
 ## About Me
 
-I am a **Software Engineering student at the African Leadership University**, currently focused on building a strong foundation in **Java, object-oriented programming, data structures, and backend development**.
+I am a **Software Engineering student at the African Leadership University**, currently building a strong foundation in **Java, object-oriented programming, data structures, and backend development**.
 
 I enjoy turning concepts into practical projects and steadily improving my ability to write **clean, reliable, and maintainable code**.
 
-My long-term goal is to become a **professional software developer** who builds technology that solves real problems and creates meaningful impact.
+My long-term goal is to become a **professional software developer** who builds technology that solves real-world problems and creates meaningful impact.
 
 Before transitioning into software engineering, I worked with organizations such as **Lutheran World Federation, Plan International, and UNHCR**, supporting communities affected by conflict and displacement. Those experiences shaped my belief that:
 
