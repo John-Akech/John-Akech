@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/john-akech.png" width="180" alt="John Akech" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+Developer+in+Training;Building+Practical+Software+Projects;Focused+on+Backend+Development" alt="Typing SVG" />
 </p>
 
