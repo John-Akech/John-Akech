@@ -1,4 +1,4 @@
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=John%20Akech&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
@@ -11,7 +11,6 @@
 <h1 align="center">Hi, I'm John Akech 👋</h1>
 <h3 align="center">Data Engineering Enthusiast | Building Scalable Data Systems</h3>
 
-<!-- PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
@@ -20,90 +19,69 @@
 
 ## 🚀 About Me
 
-I am passionate about **Data Engineering** and focused on building **reliable, scalable, and production-oriented data systems**.
+I am passionate about **Data Engineering** and focused on building **scalable, reliable, production-ready data systems**.
 
-I enjoy working on:
+I work on:
 
-- 🔄 End-to-end data pipelines  
-- 🗄 Data warehousing systems  
-- ☁ Cloud-based data workflows  
-- 🔧 Data transformation and modeling  
-- 📊 Analytics-ready datasets  
-
-My foundation includes:
-
-- 🐍 Python  
-- 🛢 SQL  
-- 📘 Data analysis with Pandas  
-- 🗃 Database fundamentals  
-
-I am actively expanding into:
-
-- 🐳 Docker  
-- ☁ Cloud platforms  
-- ⚙ Workflow orchestration  
-- ⚡ Big data processing  
-- 📦 Modern data stack tools  
+- End-to-end data pipelines  
+- Data transformation workflows  
+- Data warehousing systems  
+- Cloud-based data solutions  
+- Analytics-ready datasets  
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Programming Languages
 
-### 💻 Programming
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="55"/>
+</p>
+
+**Python**
+
+---
+
+## 🗄 Databases & Data Systems
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55"/>
+</p>
+
+**MySQL • PostgreSQL**
+
+---
+
+## 🔧 Tools & Technologies (Learning)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/>
 </p>
 
-### 🗄 Databases & Data Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="55"/>
-</p>
+**Docker • Git • GitHub**
 
 ---
 
-## 📌 Current Learning Focus
+## 📚 Current Learning Focus
 
-I am building practical skills in:
-
-- Containerization with Docker  
-- Data pipelines (ETL / ELT)  
-- Data lakes and warehousing  
-- Analytics engineering (dbt)  
-- Big data processing (Spark)  
-- Streaming systems (Kafka)  
-- Cloud deployment  
-- End-to-end pipeline architecture  
+- Data pipelines (ETL / ELT)
+- Data lakes and warehousing
+- Workflow orchestration
+- Analytics engineering (dbt)
+- Big data processing (Spark)
+- Streaming systems (Kafka)
+- Cloud deployment
+- End-to-end pipeline design
 
 ---
 
-## 🚀 Projects
-
-I am developing portfolio projects that demonstrate:
-
-- Data ingestion from APIs  
-- Data transformation workflows  
-- Warehouse design  
-- Incremental loading  
-- Production-style pipeline structure  
-
-More structured projects coming soon.
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.demolab.com?user=john-akech&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -119,7 +97,7 @@ Building expertise in **Data Engineering**, with emphasis on:
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect
 
 <p align="center">
   <a href="mailto:johnakec12@gmail.com">
