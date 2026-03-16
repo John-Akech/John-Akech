@@ -1,115 +1,93 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=John%20Akech&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=John%20Akech&fontSize=40&fontColor=ffffff&fontAlignY=38" />
 </p>
 
-<!-- TYPING EFFECT -->
+<h3 align="center">
+Aspiring Data Engineer | Python • SQL • Docker • Cloud
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=5BCDEC&center=true&vCenter=true&width=950&lines=Aspiring+Data+Engineer;Building+End-to-End+Data+Pipelines;Python+%7C+SQL+%7C+Docker+%7C+Cloud;Focused+on+Scalable+Data+Systems" />
+Building scalable data pipelines and production-ready data systems.
 </p>
 
-<h1 align="center">Hi, I'm John Akech 👋</h1>
-<h3 align="center">Data Engineering Enthusiast | Building Scalable Data Systems</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I am passionate about **Data Engineering** and focused on building **scalable, reliable, production-ready data systems**.
-
-I work on:
+I am focused on **Data Engineering**, building practical skills in:
 
 - End-to-end data pipelines  
-- Data transformation workflows  
-- Data warehousing systems  
-- Cloud-based data solutions  
-- Analytics-ready datasets  
+- Data transformation and modeling  
+- Data warehousing concepts  
+- Cloud-based data systems  
+- Scalable architecture design  
+
+My goal is to design reliable systems that support analytics and data-driven applications.
 
 ---
 
-## 🛠 Programming Languages
+## 🛠 Core Skills
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
+### Programming
+<p>
+Python
 </p>
 
-**Python**
-
----
-
-## 🗄 Databases & Data Systems
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55"/>
+### Databases
+<p>
+MySQL • PostgreSQL
 </p>
 
-**MySQL • PostgreSQL**
-
----
-
-## 🔧 Tools & Technologies (Learning)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/>
+### Tools
+<p>
+Docker • Git • GitHub
 </p>
 
-**Docker • Git • GitHub**
-
 ---
 
-## 📚 Current Learning Focus
+## 📚 Currently Learning
 
 - Data pipelines (ETL / ELT)
-- Data lakes and warehousing
 - Workflow orchestration
+- Data lakes and warehousing
 - Analytics engineering (dbt)
 - Big data processing (Spark)
 - Streaming systems (Kafka)
 - Cloud deployment
-- End-to-end pipeline design
+- Production pipeline design
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.demolab.com?user=john-akech&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🎯 Career Focus
-
-Building expertise in **Data Engineering**, with emphasis on:
-
-- Scalable system design  
-- Reliable data pipelines  
-- Cloud-based architectures  
-- Production-level workflows  
-
----
-
-## 📬 Connect
+## 📬 Contact
 
 <p align="center">
   <a href="mailto:johnakec12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-johnakec12%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/john-akech" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-John%20Akech-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>Designing data systems. Learning consistently. Building with purpose.</em>
+Focused. Structured. Building with purpose.
 </p>
