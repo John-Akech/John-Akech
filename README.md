@@ -72,7 +72,7 @@ Python • MySQL • PostgreSQL • Docker • Git • GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=john-akech&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=john-akech&theme=tokyonight&hide_border=true" height="170" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
