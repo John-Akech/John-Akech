@@ -19,7 +19,7 @@ Building scalable data pipelines and modern data systems.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Focused on **Data Engineering** with interest in designing and building:
 
@@ -33,7 +33,7 @@ I enjoy turning raw data into structured, reliable, analytics-ready systems.
 
 ---
 
-## 🛠 Core Technologies
+## Core Technologies
 
 ### Programming & Data
 <p align="center">
@@ -55,7 +55,7 @@ Python • MySQL • PostgreSQL • Docker • Git • GitHub
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Data pipelines (ETL / ELT)
 - Workflow orchestration
@@ -68,12 +68,11 @@ Python • MySQL • PostgreSQL • Docker • Git • GitHub
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=john-akech&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
-</p>
+  <img src="https://github-readme-streak-stats.demolab.com?user=john-akech&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Streak"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
@@ -81,7 +80,7 @@ Python • MySQL • PostgreSQL • Docker • Git • GitHub
 
 ---
 
-## 🎯 Career Focus
+## Career Focus
 
 Building expertise in **scalable data systems** that power analytics and modern cloud platforms.
 
@@ -93,7 +92,7 @@ Committed to:
 
 ---
 
-## 📬 Contact
+## Contact
 
 <p align="center">
   <a href="mailto:johnakec12@gmail.com">
