@@ -83,13 +83,15 @@ That means:
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=john-akech&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=john-akech&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
