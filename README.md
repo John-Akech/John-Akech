@@ -1,136 +1,120 @@
-[![Banner](https://itsm.tools/wp-content/uploads/2023/12/ai-buzzwords.png)](https://itsm.tools)
-
-<h1 align="center">👋 Hi, I'm <span style="color:#0078D7;">John Akech</span></h1>
-<h3 align="center">AI & Data Science Enthusiast | Software Engineering Student | Building Practical AI Solutions for Social Impact</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=John%20Akech&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=5BCDEC&center=true&vCenter=true&width=820&lines=Software+Engineering+Student;Java+Developer+in+Training;Learning+Backend+Development;Building+Projects+Step+by+Step" alt="Typing SVG" />
+</p>
+
+<h1 align="center">Hi, I'm John Akech 👋</h1>
+<h3 align="center">Software Engineering Student | Java Developer in Training | Learning Backend Development</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## About Me  
+## About Me
 
-**AI & Data Science Enthusiast | Python, Data Analytics & Predictive Modeling | Tech for Social Good**
+I am a **Software Engineering student at the African Leadership University** with a growing interest in **Java and backend development**.
 
-I am a **Software Engineering student at the African Leadership University**, passionate about **building practical AI solutions** that empower vulnerable communities.  
-I combine **Python, data analysis, and predictive modeling** with **hands-on projects**, exploring how technology can solve **real-world problems** in healthcare, climate, and social development.  
+Right now, I am focused on building a strong foundation in programming by learning core concepts, practicing regularly, and creating small projects that help me improve.
 
-**My Journey Before Tech**  
-Before formally studying software engineering, I worked with **Lutheran World Federation, Plan International, UNHCR, and the Office of the Prime Minister of Uganda**, supporting public health, early childhood education, financial literacy, and access to essential services.  
-These experiences shaped my belief that **technology must be grounded in empathy and human-centered problem-solving**.  
+I enjoy writing code, solving problems, and learning how software is built step by step.
 
-**Why I Do What I Do**  
-I have witnessed how **conflict, displacement, and climate change** devastate communities. Floods destroy homes and crops, trigger disease outbreaks, and leave families without options.  
-My goal is to **design AI systems that save lives, reduce risk, and provide actionable insights**, from flood early-warning systems to predictive analytics tools.
+Before moving into software engineering, I worked with organizations such as **Lutheran World Federation, Plan International, and UNHCR**. That experience shaped the way I see technology.
 
-Reach me at `johnakec12@gmail.com` | 📞 +250 792 403 049  
-
-
-## Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/john-akech" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
-  <a href="https://fb.com/the.lord.aroma" target="_blank"><img src="https://img.icons8.com/color/48/facebook.png" width="40"/></a>
-  <a href="https://instagram.com/the.lord.aroma" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/></a>
-  <a href="https://x.com/john_akech_" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v2.png" width="40"/></a>
-</p>
-
-
-## Tech Stack  
-
-<table align="center">
-<tr>
-<td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br>Python</td>
-<td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br>Scikit-Learn</td>
-<td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/><br>TensorFlow</td>
-<td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/><br>PyTorch</td>
-<td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/><br>Flutter</td>
-<td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/><br>Docker</td>
-</tr>
-</table>
-
-## Tools & Interests  
-
-<details>
-<summary><b>🔬 ML/AI & Data Science</b></summary>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40"/>
-</p>
-</details>
-
-<details>
-<summary><b>Web & Mobile Development (Exploring)</b></summary>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
-</p>
-</details>
-
-<details>
-<summary><b>⚙DevOps & Infra (Exploring)</b></summary>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="40"/>
-</p>
-</details>
-
-<details>
-<summary><b>🗄 Databases (Exploring)</b></summary>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
-</p>
-</details>
-
-<details>
-<summary><b>Design Tools (Exploring)</b></summary>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
-</p>
-</details>
+I believe good technology should be **useful, simple, and able to solve real problems for real people**.
 
 ---
 
-## Featured Projects  
+## What I’m Learning
+
+- Core **Java**
+- **Object-Oriented Programming**
+- **Data Structures and Algorithms**
+- Problem-solving through practice
+- The basics of **backend development**
+- Preparing to learn **Spring Boot**
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <a href="https://github.com/John-Akech/Sonar-Rock-vs-Mine-Classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=John-Akech&repo=Sonar-Rock-vs-Mine-Classifier&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA" />
+</p>
+
+<p align="center">
+  <b>Java</b> • <b>Git</b> • <b>GitHub</b> • <b>VS Code</b> • <b>IntelliJ IDEA</b>
+</p>
+
+---
+
+## Projects I’m Building
+
+These projects reflect my learning journey and the skills I am developing:
+
+- 🎮 **Java Quiz Game**
+- 🎲 **Dice Rolling Simulator**
+- 🔎 **Array Search Program**
+- 🛠️ **Command-Line Java Utilities**
+
+I will continue adding better and more challenging projects as I grow.
+
+---
+
+## My Approach
+
+I believe in learning by doing.
+
+That means:
+- building projects consistently
+- improving one step at a time
+- writing code that is clear and readable
+- focusing on progress, not shortcuts
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=john-akech&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+---
+
+## Career Goal
+
+My goal is to become a **professional software developer** with strong backend skills, solid programming fundamentals, and the ability to build software that is useful and dependable.
+
+I am still growing, but I am committed to learning deeply, building consistently, and getting better every day.
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="mailto:johnakec12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-johnakec12%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/john-akech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-John%20Akech-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
-
-## GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&theme=tokyonight&hide=C,cpp" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=john-akech&theme=tokyonight&mode=weekly" height="180"/>
-</p>
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight&hide=C,C++" height="150"/>
+  <em>Learning, building, and improving every day.</em>
 </p>
-
-
-## Daily Motivation  
-
-**Keep your streak alive!** Each day you push code, learn a new concept, or contribute to projects counts.  
-- ✅ Consistency is the secret to mastery.  
-- ✅ Aim for 100+ commits in the next 3 months.  
-- ✅ Gamify your learning: streaks, challenges, and mini-projects.  
-
-
-<p align="center"><em>💡 "Technology is most powerful when it empowers the most vulnerable." 💡</em></p>
-
-
