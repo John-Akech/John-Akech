@@ -1,16 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=John%20Akech&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=John%20Akech&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=5BCDEC&center=true&vCenter=true&width=800&lines=Backend+Developer+in+Progress;Java+Focused;Learning+by+Building;Growing+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=900&color=5BCDEC&center=true&vCenter=true&width=820&lines=Backend+Developer+in+Progress;Java+Focused;Building+Strong+Foundations;Learning+by+Doing+Every+Day" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi, I'm John Akech 👋</h1>
-<h3 align="center">Software Engineering Student • Backend Developer in Progress • Java Focused</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <strong>Software Engineering Student • Backend Developer in Progress • Java Focused</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -28,17 +31,17 @@
 
 I am a **Software Engineering student at the African Leadership University**, focused on becoming a strong **backend developer**.
 
-I am currently building a solid foundation in programming through **Java**, problem-solving, and consistent practice.
+I am currently building a solid foundation in programming through **Java**, problem-solving, and consistent hands-on practice.
 
-I enjoy writing clean code, understanding how systems work, and improving step by step through hands-on learning.
+I enjoy understanding how systems work behind the scenes, writing clean code, and improving step by step through real-world learning.
 
-Before transitioning into software engineering, I worked with organizations such as **Lutheran World Federation, Plan International, and UNHCR**, which shaped my perspective on building **practical and meaningful technology**.
+Before transitioning into software engineering, I worked with organizations such as **Lutheran World Federation, Plan International, and UNHCR**. That experience shaped my perspective on building **practical and meaningful technology**.
 
 > I believe software should be **simple, reliable, and built to solve real-world problems.**
 
 ---
 
-## What I’m Learning
+## Learning Focus
 
 - Core **Java**
 - **Object-Oriented Programming**
@@ -61,13 +64,13 @@ Before transitioning into software engineering, I worked with organizations such
 
 ---
 
-## My Approach
+## Approach
 
 - Build consistently  
 - Focus on strong fundamentals  
 - Write clean, readable code  
 - Improve step by step  
-- Prioritize progress over shortcuts  
+- Prioritize long-term growth over shortcuts  
 
 ---
 
@@ -84,11 +87,15 @@ Before transitioning into software engineering, I worked with organizations such
 
 ---
 
-## Career Goal
+## Career Direction
 
-My goal is to become a **professional backend developer** with strong fundamentals, solid problem-solving skills, and the ability to build **reliable and scalable software**.
+I am working toward becoming a **professional backend developer** with:
 
-I am committed to continuous learning, consistent practice, and long-term growth.
+- strong programming fundamentals  
+- deep understanding of systems  
+- the ability to build **reliable and scalable software**  
+
+I am committed to continuous learning, consistency, and long-term mastery.
 
 ---
 
@@ -106,5 +113,5 @@ I am committed to continuous learning, consistent practice, and long-term growth
 ---
 
 <p align="center">
-  <em>Learning, building, and improving every day.</em>
+  <em>Building with purpose. Improving every day.</em>
 </p>
