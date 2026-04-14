@@ -14,6 +14,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Currently%20Learning-Spring%20Boot-0e75b6?style=for-the-badge&logo=springboot&logoColor=white" alt="Currently Learning Spring Boot" />
 </p>
 
 <p align="center">
@@ -74,15 +75,22 @@ Before transitioning into software engineering, I worked with organizations such
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://streak-stats.demolab.com?user=john-akech&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=john-akech&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
+---
+
+## Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/john-akech/john-akech/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/john-akech/john-akech/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/john-akech/john-akech/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
