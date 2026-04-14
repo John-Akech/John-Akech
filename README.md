@@ -17,15 +17,6 @@
   <img src="https://img.shields.io/badge/Currently%20Learning-Spring%20Boot-0e75b6?style=for-the-badge&logo=springboot&logoColor=white" alt="Currently Learning Spring Boot" />
 </p>
 
-<p align="center">
-  <a href="mailto:johnakec12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/john-akech">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## About Me
@@ -56,7 +47,7 @@ Before transitioning into software engineering, I worked with organizations such
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea" alt="Tech Stack" />
 </p>
 
 <p align="center">
@@ -111,10 +102,10 @@ I am committed to continuous learning, consistency, and long-term mastery.
 
 <p align="center">
   <a href="mailto:johnakec12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-johnakec12%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-johnakec12%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/john-akech">
-    <img src="https://img.shields.io/badge/LinkedIn-John%20Akech-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-John%20Akech-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
