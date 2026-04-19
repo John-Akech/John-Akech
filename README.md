@@ -69,7 +69,7 @@ Before transitioning into software engineering, I worked with organizations such
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=john-akech&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=John-Akech&theme=tokyonight&hide_border=true&v=2" height="170" alt="GitHub Streak" />
 </p>
 
 ---
