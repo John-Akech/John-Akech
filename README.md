@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=john-akech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=John-Akech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Currently%20Learning-Spring%20Boot-0e75b6?style=for-the-badge&logo=springboot&logoColor=white" alt="Currently Learning Spring Boot" />
 </p>
 
@@ -69,7 +69,7 @@ Before transitioning into software engineering, I worked with organizations such
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=john-akech&theme=tokyonight&hide_border=true&v=2" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=John-Akech&theme=tokyonight&hide_border=true&v=2" height="170" alt="GitHub Streak" />
 </p>
 
 ---
@@ -78,9 +78,9 @@ Before transitioning into software engineering, I worked with organizations such
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/john-akech/john-akech/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/john-akech/john-akech/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/john-akech/john-akech/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/John-Akech/John-Akech/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/John-Akech/John-Akech/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/John-Akech/John-Akech/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
