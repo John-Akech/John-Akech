@@ -70,7 +70,7 @@ Before transitioning into software engineering, I worked with organizations such
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=john-akech&show_icons=true&theme=tokyonight&hide=C,cpp" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=john-akech&theme=tokyonight&mode=weekly" height="180"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=john-akech&theme=tokyonight&mode=weekly" height="180"/> -->
 </p>
 
 <p align="center">
