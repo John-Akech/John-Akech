@@ -74,7 +74,7 @@ Before transitioning into software engineering, I worked with organizations such
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight&hide=Java,Python,C,C++" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-akech&layout=compact&theme=tokyonight&hide=Java,Python,C,C%2B%2B" height="150"/>
 </p>
 
 ---
